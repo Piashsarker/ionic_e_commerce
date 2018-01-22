@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1 ,
+    "name": "Product 1",
+    "description": "This is a description",
+    "price": "120",
+    "image": "https://cloud.google.com/blog/big-data/2016/12/images/148114735559140/image-classification-1.png",
+    "gender": "Male",
+    "best_seller": true
+  },
+  {
+    "id": 1 ,
+    "name": "Product 1",
+    "description": "This is a description",
+    "price": "120",
+    "image": "https://cloud.google.com/blog/big-data/2016/12/images/148114735559140/image-classification-1.png",
+    "gender": "Male",
+    "best_seller": false
+  }
+  ,
+  {
+    "id": 1 ,
+    "name": "Product 1",
+    "description": "This is a description",
+    "price": "120",
+    "best_seller": true,
+    "image": "https://cloud.google.com/blog/big-data/2016/12/images/148114735559140/image-classification-1.png",
+    "gender": "Male"
+  }
+  ,
+  {
+    "id": 1 ,
+    "name": "Product 1",
+    "description": "This is a description",
+    "price": "120",
+    "image": "https://cloud.google.com/blog/big-data/2016/12/images/148114735559140/image-classification-1.png",
+    "gender": "Male"
+  }
+  ,
+  {
+    "id": 1 ,
+    "name": "Product 1",
+    "description": "This is a description",
+    "price": "120",
+    "best_seller": true,
+    "image": "https://cloud.google.com/blog/big-data/2016/12/images/148114735559140/image-classification-1.png",
+    "gender": "Male"
+  }
+  ,
+  {
+    "id": 1 ,
+    "name": "Product 1",
+    "description": "This is a description",
+    "price": "120",
+    "image": "https://cloud.google.com/blog/big-data/2016/12/images/148114735559140/image-classification-1.png",
+    "gender": "Male"
+  }
+  ,
+  {
+    "id": 1 ,
+    "name": "Product 1",
+    "description": "This is a description",
+    "price": "120",
+    "best_seller": true,
+    "image": "https://cloud.google.com/blog/big-data/2016/12/images/148114735559140/image-classification-1.png",
+    "gender": "Male"
+  }
+  ,
+  {
+    "id": 1 ,
+    "name": "Product 1",
+    "description": "This is a description",
+    "price": "120",
+    "best_seller": false ,
+    "image": "https://cloud.google.com/blog/big-data/2016/12/images/148114735559140/image-classification-1.png",
+    "gender": "Male"
+  }
+  ,
+  {
+    "id": 1 ,
+    "name": "Product 1",
+    "description": "This is a description",
+    "price": "120",
+    "best_seller": false,
+    "image": "https://cloud.google.com/blog/big-data/2016/12/images/148114735559140/image-classification-1.png",
+    "gender": "Male"
+  }
+]

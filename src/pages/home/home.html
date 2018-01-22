@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Product</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content >
+
+  <ion-card *ngFor="let product of allProduct" (click)="gotoProductDetails(product)">
+        <img [src]="product.image">
+  </ion-card>
+  <ion-fab right bottom>
+    <button ion-fab>
+    <ion-icon name="settings"></ion-icon>
+    </button>
+  </ion-fab>
+
+
+</ion-content>
